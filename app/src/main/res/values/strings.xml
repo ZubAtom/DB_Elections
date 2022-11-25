@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DB_Elections</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">Location</string>
+    <string name="candidate">Candidate</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="sort">Sort</string>
+    <string name="find">Find</string>
+    <string name="exit">Exit</string>
+    <string name="sort_by">Sort by</string>
+    <string name="quantity_votes">Quantity votes</string>
+    <string name="record_incorrect">Record is incorrect</string>
+    <string name="record_exists">Record is exists</string>
+    <string name="record_not_exists">Record is not exists</string>
+    <string name="action_completed">Action completed</string>
+    <string name="record_correct">Record is correct</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">БД_Выборы</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="location">Участок</string>
+    <string name="candidate">Кандидат</string>
+    <string name="back">Назад</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="sort">Сортировать</string>
+    <string name="find">Найти</string>
+    <string name="exit">Выйти</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="quantity_votes">Количество голосов</string>
+    <string name="record_incorrect">Запись некорректна</string>
+    <string name="record_exists">Запись уже существует</string>
+    <string name="record_correct">Запись корректна</string>
+    <string name="record_not_exists">Запись не существует</string>
+    <string name="action_completed">Команда выполнена</string>
+</resources>
